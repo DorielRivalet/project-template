@@ -43,6 +43,6 @@ Insert brief project description here
 
 - Insert prerequisites list here
 
-## 🏁 Donation
+## Donations
 
 Insert donation links here
