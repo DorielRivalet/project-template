@@ -26,7 +26,7 @@
 
 Insert brief project description here
 
-[▶️ Live demonstration](https://dorielrivalet.github.io/calculator)
+[▶️ Live demonstration]()
 
 <p style="text-align: center;">
 <img src="./img/demo.gif" style="display: block; margin: auto;">
