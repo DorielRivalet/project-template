@@ -39,10 +39,10 @@ Insert brief project description here
 - [Table of contents](#table-of-contents)
 
 
-## Installation
+# Installation
 
 - Insert prerequisites list here
 
-## Donations
+# Donations
 
 Insert donation links here
