@@ -1,0 +1,3 @@
+function functionName()
+  return ""
+end
