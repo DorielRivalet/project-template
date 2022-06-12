@@ -43,6 +43,13 @@ Insert brief project description here
 
 - Insert prerequisites list here
 
+# Usage
+
+# Development
+
+# Contributing
+
+# Resources
+
 # Donations
 
-Insert donation links here
