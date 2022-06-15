@@ -26,23 +26,30 @@
 
 Insert brief project description here
 
-[▶️ Live demonstration](https://dorielrivalet.github.io/calculator)
+[▶️ Live demonstration]()
 
 <p style="text-align: center;">
 <img src="./img/demo.gif" style="display: block; margin: auto;">
 <br><em>live demo image gif description</em>
 </p>
 
-# 🔤 Table of contents
+# Table of contents
 
 - [<img src="" alt="" height="42" width="42" align="top"/> Overview](#-overview)
-- [🔤 Table of contents](#-table-of-contents)
+- [Table of contents](#table-of-contents)
 
 
-### ❗ Prerequisites & Dependencies
+# Installation
 
 - Insert prerequisites list here
 
-## Donations
+# Usage
 
-Insert donation links here
+# Development
+
+# Contributing
+
+# Resources
+
+# Donations
+
