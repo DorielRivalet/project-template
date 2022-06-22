@@ -1,6 +1,5 @@
 .wakatime-project
 .husky/
-commitlint.config.js
 .vscode/
 node_modules
 
