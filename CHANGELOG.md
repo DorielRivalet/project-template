@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [0.4.0-alpha](https://github.com/DorielRivalet/project-template/compare/v0.3.2-alpha...v0.4.0-alpha) (2022-06-22)
+
+
+### Features
+
+* **husky:** keep calm and commit ([f9fa521](https://github.com/DorielRivalet/project-template/commit/f9fa521311884afef04c8712b771c51195502612))
+
+
+### Bug Fixes
+
+* **husky:** unignore husky ([b3b2010](https://github.com/DorielRivalet/project-template/commit/b3b20100738fc97458111f55cfd6e3a271d2e122))
+
 ## [0.3.2-alpha](https://github.com/DorielRivalet/project-template/compare/v0.3.1-alpha...v0.3.2-alpha) (2022-06-22)
 
 
