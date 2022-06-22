@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [0.3.0-alpha](https://github.com/DorielRivalet/project-template/compare/v0.2.0-alpha...v0.3.0-alpha) (2022-06-22)
+
+
+### Features
+
+* implement resources folder ([6726a01](https://github.com/DorielRivalet/project-template/commit/6726a012cc46a00f1bb117c34705735ae24afedd))
+
+
+### Bug Fixes
+
+* **circleci:** modify settings ([e91463b](https://github.com/DorielRivalet/project-template/commit/e91463bdaf3f8eee111ef1ff1b5d12f51f3f1fef))
+
 ## [0.2.0-alpha](https://github.com/DorielRivalet/project-template/compare/v0.1.0-alpha...v0.2.0-alpha) (2022-06-22)
 
 
