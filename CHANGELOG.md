@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [0.2.0-alpha](https://github.com/DorielRivalet/project-template/compare/v0.1.0-alpha...v0.2.0-alpha) (2022-06-22)
+
+
+### Features
+
+* include release-please generator ([cff08e0](https://github.com/DorielRivalet/project-template/commit/cff08e09ba9f1abe533c1d6544c288670f8c2f57))
+
 ## [v0.1.0-alpha](https://github.com/DorielRivalet/project-template/releases/tag/v0.1.0-alpha) - 2022-06-22 05:39:08
 
 *No description*
