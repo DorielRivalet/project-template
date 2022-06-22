@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [0.3.2-alpha](https://github.com/DorielRivalet/project-template/compare/v0.3.1-alpha...v0.3.2-alpha) (2022-06-22)
+
+
+### Bug Fixes
+
+* remove redundancies ([4101313](https://github.com/DorielRivalet/project-template/commit/41013137fc54ebf60c15afcddf5d22630d800364))
+
 ## [v0.3.1-alpha](https://github.com/DorielRivalet/project-template/releases/tag/v0.3.1-alpha) - 2022-06-22 08:14:16
 
 *No description*
