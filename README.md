@@ -29,7 +29,7 @@ Insert brief project description here
 [▶️ Live demonstration]()
 
 <p style="text-align: center;">
-<img src="./img/demo.gif" style="display: block; margin: auto;">
+<img src="./res/img/demo.gif" style="display: block; margin: auto;">
 <br><em>live demo image gif description</em>
 </p>
 
