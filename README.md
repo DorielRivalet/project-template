@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="#-table-of-contents">Table of contents</a>
+  <a href="#-table-of-contents">Table of contents (TOC)</a>
   •
   <a href="#">2</a>
   •
