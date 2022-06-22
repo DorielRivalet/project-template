@@ -1,0 +1,29 @@
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "description": "template for my projects",
+  "main": "commitlint.config.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "commit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DorielRivalet/project-template.git"
+  },
+  "author": "DorielRivalet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DorielRivalet/project-template/issues"
+  },
+  "homepage": "https://github.com/DorielRivalet/project-template#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.2",
+    "@commitlint/config-conventional": "^17.0.2",
+    "@commitlint/prompt-cli": "^17.0.0"
+  }
+}
