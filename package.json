@@ -1,6 +1,6 @@
 {
   "name": "project-template",
-  "version": "0.2.0-alpha",
+  "version": "0.3.0-alpha",
   "description": "template for my projects",
   "main": "commitlint.config.js",
   "directories": {
