@@ -1,5 +1,3 @@
 .wakatime-project
-.husky/
 .vscode/
 node_modules
-
